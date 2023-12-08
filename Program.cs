@@ -81,7 +81,7 @@ class Program
             { "Tue", "Tuesday" },
             { "Wed", "Wednesday" },
             { "Thu", "Thursday" },
-            { "Fri", "Friday" },
+            { "Fri", "Saturday" },
             { "Fri", "Saturday" },
             { "Sun", "Sunday" }
         };
